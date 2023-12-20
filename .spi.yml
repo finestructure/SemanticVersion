@@ -3,4 +3,4 @@ builder:
   configs:
   - platform: ios
     documentation_targets: [SemanticVersion]
-    custom_documentation_parameters: [--include-extended-types]
+    custom_documentation_parameters: [--diagnostic-level info]
