@@ -1,6 +1,6 @@
 version: 1
 builder:
   configs:
-  - platform: macos-spm
+  - platform: ios
     documentation_targets: [SemanticVersion]
     custom_documentation_parameters: [--include-extended-types]
