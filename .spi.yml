@@ -3,3 +3,4 @@ builder:
   configs:
   - platform: macos-spm
     documentation_targets: [SemanticVersion]
+    custom_documentation_parameters: [--include-extended-types]
