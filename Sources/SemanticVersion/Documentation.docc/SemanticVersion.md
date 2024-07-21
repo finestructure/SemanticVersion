@@ -1,5 +1,7 @@
 # ``SemanticVersion``
 
+Doc Update 0.0.1+doc-update-1
+
 `SemanticVersion` is a struct representing a software or project version according to "Semantic Versioning".
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
